@@ -25,7 +25,10 @@
 <p>
   
 ## Github Profile Trophy:
-<img src="https://github-profile-trophy.vercel.app/?username=Saha-Kamalika&theme=monokai&row=1&no-frame=true&no-bg=true/">
+<img src="https://github-profile-trophy.vercel.app/?username=Saha-Kamalika&theme=algolia&row=1&no-frame=true&no-bg=true/">
   
 ## Top Languages:
 [![Top Languages of Kamalika](https://github-readme-stats.vercel.app/api/top-langs/?username=Saha-Kamalika&layout=compact&langs_count=25)](https://github.com/Saha-Kamalika/github-readme-stats)
+  
+## Github Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saha-Kamalika&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
