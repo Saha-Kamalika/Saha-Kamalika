@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner and coding enthusiast</h3>
 <!--<img align="center" alt="Coding" width="1000" src="https://www.picgifs.com/graphics/r/rubiks-cube/animaatjes-rubiks-cube-7217468.gif">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-kamalika&label=Profile%20views&color=0e75b6&style=flat" alt="saha-kamalika" /> </p>
-
+ 
 ## About me🤙
 <hr>
 <ul>
