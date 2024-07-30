@@ -6,7 +6,7 @@
 ## About me🤙
 <hr>
 <ul>
-<li>Final year student at Academy of Technology with a major in Electronics and Communication Engineering.</li>
+<li>Graduated from Academy of Technology.</li>
 <li>My areas of interest include programming languages( Java, C, C++) , cloud technologies, web development and DBMS.</li>
 <li>I enjoy solving technical & competitive programming problems.</li>
 <li>I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.</li>
